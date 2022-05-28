@@ -1,0 +1,3 @@
+[submodule "app/django_test"]
+	path = app/django_test
+	url = https://github.com/SleepyJeno/DjangoWebApp
